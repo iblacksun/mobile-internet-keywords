@@ -2,7 +2,7 @@
 
 本文档列出了移动互联网中常见的英文名词，排名不分先后。
 
-除特有殊说明，所有名词都是大小写敏感的。
+除有特殊说明，所有名词都是大小写敏感的。
 
 中英文混排规则请参考：[https://github.com/sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
