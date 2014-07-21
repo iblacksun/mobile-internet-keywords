@@ -6,7 +6,7 @@
 
 中英文混排规则请参考：[https://github.com/sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
-## 手机系统
+## 系统
 
 * iOS -- 苹果智能手机系统，用于 iPhone, iPad 等设备。
 * OS X -- 苹果电脑系统，用于 Mackbook 等设备。
@@ -29,7 +29,7 @@
 * [iPod shuffle](http://www.apple.com/ipod/)
 * [iPod classic](http://www.apple.com/ipod/)
 * [Apple TV](http://www.apple.com/ipod/)
-* [Macbook pro](http://www.apple.com/mac/)
+* [Macbook Pro](http://www.apple.com/mac/)
 * [Macbook Air](http://www.apple.com/mac/)
 * [Mac mini](http://www.apple.com/mac/)
 * [iMac](http://www.apple.com/mac/)
